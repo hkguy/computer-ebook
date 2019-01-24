@@ -1,2 +1,2 @@
 # computer-ebook
-All free ebooks related to computer science and programming
+My favorite free ebooks related to computer science and programming
